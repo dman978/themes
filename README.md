@@ -32,7 +32,7 @@ View [variables.scss](https://github.com/beeper/themes/tree/main/variables.scss)
 
 | | |
 |:---:|:---:|
-| ![image](https://github.com/beeper/themes/blob/main/themes/windows95.png) [**Windows 95 (light)**](https://github.com/beeper/themes/blob/main/themes/windows95.css) by @imjoshin | ![image](https://github.com/beeper/themes/blob/main/themes/bubbly.png) [**Bubbly**](https://github.com/beeper/themes/blob/main/themes/bubbly.css) by @imjoshin |
+| ![image](https://github.com/beeper/themes/blob/main/themes/windows95.png) [**Windows 95 (light)**](https://github.com/beeper/themes/blob/main/themes/windows95.css) by @imjoshin | ![image](https://github.com/beeper/themes/blob/main/themes/bubbly.png) [**Bubbly**](https://github.com/beeper/themes/blob/main/themes/bubbly.css) by @imjoshin | ![image](https://i.ibb.co/0qpNj2s/image-2024-03-26-161825537.png) [**ClearView (dark)**](https://github.com/beeper/themes/pull/27) by @dman978
 | ![image](https://user-images.githubusercontent.com/4341881/184789029-0a8f03bc-1691-4998-875a-90f79d6bab82.png) [**Metrology**](https://github.com/Madelena/metrology-for-beeper) by [@Madelena](https://github.com/Madelena) <br/> Dark/light modes and multiple colors included. Based on Metro Design System. | ![image](https://user-images.githubusercontent.com/4341881/184405906-45f67b70-dd0b-4457-8d55-8633cf497abc.png) [**Metrology**](https://github.com/Madelena/metrology-for-beeper) by [@Madelena](https://github.com/Madelena) <br/> Dark/light modes and multiple colors included. Based on Metro Design System. | 
 
 
